@@ -11,6 +11,7 @@ Currently working at Aviasales (Go Travel Un Ltd).
 
 🛠 Tech Toolbox
 Languages & Frameworks: Python · Django · FastAPI · Golang
+
 Databases: PostgreSQL · MS SQL · Redis, Scylla DB · KlickHouse · MongoDB.
 
 Messaging / Streaming: Apache Kafka, RabbitMQ
