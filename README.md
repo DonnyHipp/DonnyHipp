@@ -1,15 +1,10 @@
-<h1 align="center">Backend Engineer • ML/NLP Systems</h1>
+# Backend Engineer | ML/NLP Systems
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&lines=Shipping+production+ML+systems+that+move+business+metrics;Designing+LLM%2Fsearch+platforms+from+data+ingestion+to+inference;Building+scalable+backend+services+for+retrieval+and+knowledge+access" alt="Typing SVG" />
-</p>
 
 ## About
 
 Backend engineer focused on production ML/NLP systems with measurable business impact.
-
-I turn ML prototypes into reliable services: architecture, performance, delivery, and operations.
-My sweet spot is where LLM infrastructure, retrieval systems, and backend engineering meet.
+I design and ship scalable services that connect LLMs and neural networks to real products — from data ingestion to inference and delivery.
 
 ## What I Build
 
